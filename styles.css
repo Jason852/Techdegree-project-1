@@ -69,8 +69,8 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 30%;
+  border: 3px solid grey;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -78,7 +78,7 @@ header .profile-image:hover {
 }
 .tag {
   background-color: black;
-  color: white;
+  color: grey;
   padding: 10px;
   border-radius: 5px;
   display: table;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: white;
+  color: grey;
 }
 .card {
   margin: 30px;
@@ -101,7 +101,7 @@ header .profile-image:hover {
 .cardexp {
   margin: 15px;
   padding: 20px 40px 40px;
-  max-width: 1200;
+  max-width: 1200px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
